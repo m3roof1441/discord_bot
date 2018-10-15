@@ -1,1 +1,1 @@
-worker : node TG.js
+worker : node bot.js
